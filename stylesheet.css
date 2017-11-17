@@ -109,4 +109,25 @@ margin-bottom: 5px;
 #containerfull {
   margin: 0 auto;
 }
+  
+  #backstory {
+  width: 300px;
+  height: 250px;
+  border: 2px solid red;
+  background-color: red;
+  font-size: 16.5px;
+  margin-bottom: 5px;
+  margin-right: 5px;
+}
+
+#htp {
+  width: 365px;
+  height: 250px;
+  border: 2px solid red;
+  background-color: red;
+  font-size: 16.5px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
 }
